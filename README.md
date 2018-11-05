@@ -34,7 +34,7 @@ Any [`ScrollView` property](http://facebook.github.io/react-native/docs/scrollvi
 |**`contentData`**|The content for the ScrollView. Same like before, Array of Views.. |*None*|
 |**`customIndicator`**|If true, the custom indicator is visible |false|
 |**`customIndicatorWidth`**|The width of the indicator. |3|
-|**`customIndicatorColor`**|The color of the indicator |'grey|
+|**`customIndicatorColor`**|The color of the indicator |'grey'|
 
 ## Hints
 
