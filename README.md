@@ -1,4 +1,4 @@
-#React Native Scrollview Indicator
+# React Native Scrollview Indicator
 
 Extends the native ScrollView from React Native with a custom scrollindicator. That indicator stays visible als long it is activated.
 
