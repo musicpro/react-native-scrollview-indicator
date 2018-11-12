@@ -1,11 +1,15 @@
 {
   "name": "react-native-scrollview-indicator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A ScrollView with custom scrollindicator for vertical scrolling. When active the indicator is always visible",
   "private": false,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musicpro/react-native-scrollview-indicator.git"
   },
   "license": "MIT",
   "author": {
@@ -14,5 +18,10 @@
   "peerDependencies": {
     "react": ">= 15.x",
     "react-native": ">= 0.47.x"
-  }
+  },
+  "keywords": [
+   "react-natve",
+   "scrollview",
+   "indicator"
+  ]
 }
