@@ -9,7 +9,7 @@
 import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, ScrollView, Dimensions } from 'react-native';
 import PropTypes from 'prop-types';
-import renderIf from 'modul-test/renderIf';
+import renderIf from './renderIf';
 import ViewPropTypes from 'react-native/Libraries/Components/View/ViewPropTypes';
 
 export default class ScrollViewWithIndicator extends Component {
